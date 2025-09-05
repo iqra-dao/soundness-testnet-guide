@@ -22,7 +22,7 @@ First, we will update the server and install all the required software, includin
 3.  **Install and update the Soundness CLI:**
     *(Copy and paste the entire block below into your terminal)*
     ```bash
-    curl -sSL [https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install](https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install) | bash
+    curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
     source ~/.bashrc
     soundnessup install
     soundnessup update
