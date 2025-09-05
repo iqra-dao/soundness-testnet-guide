@@ -15,7 +15,7 @@ First, we will update the server and install all the required software, includin
 
 2.  **Install Rust (a prerequisite):**
     ```bash
-    curl --proto '=https' --tlsv1.2 -sSf [https://sh.rustup.rs/](https://sh.rustup.rs/) | sh
+    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     ```
     *(When prompted, choose option 1 for the default installation.)*
 
